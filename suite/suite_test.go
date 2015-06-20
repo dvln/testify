@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stretchr/testify/assert"
+	"github.com/dvln/testify/assert"
 )
 
 // This suite is intended to store values to make sure that only
