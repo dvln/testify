@@ -6,11 +6,11 @@
 package require
 
 import (
-
-	assert "github.com/stretchr/testify/assert"
 	http "net/http"
 	url "net/url"
 	time "time"
+
+	assert "github.com/dvln/testify/assert"
 )
 
 
